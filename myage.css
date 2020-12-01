@@ -1,0 +1,25 @@
+﻿.container 
+{
+    
+    }
+    .myform
+    {
+        background-color:blue;
+        background-image:
+    }
+    .container > .myform
+    {
+        width:250px;
+        border:1px solid;
+        margin: 0 auto;
+    }
+    button
+    {
+       width:250px; 
+       padding:1px;
+    }
+    .myinput
+    {
+        font-style:italic;
+        width:100%;
+    }
